@@ -14,7 +14,7 @@
 
 2. The application should show a video-player + chat-sidepanel layout. The chat-sidepanel
    should be aligned right in a container with a max width of 350px and a min-width of
-   300px. Take inspiration from this:<a href="https://webclient.spect8.me/demo.html" target="_blank">https://webclient.spect8.me/demo.html!</a>
+   300px. Take inspiration from this: <a href="https://webclient.spect8.me/demo.html" target="_blank">https://webclient.spect8.me/demo.html!</a> {rel="noopener"}
 
 3. Add a video-player to the main container (play any public video - you can re-use the one
    we use).
