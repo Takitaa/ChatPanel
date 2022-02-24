@@ -14,7 +14,7 @@
 
 2. The application should show a video-player + chat-sidepanel layout. The chat-sidepanel
    should be aligned right in a container with a max width of 350px and a min-width of
-   300px. Take inspiration from this: <a href="https://webclient.spect8.me/demo.html" target="_blank">https://webclient.spect8.me/demo.html!</a> {rel="noopener"}
+   300px. Take inspiration from this: <a href="https://webclient.spect8.me/demo.html" target="_blank">https://webclient.spect8.me/demo.html!</a>
 
 3. Add a video-player to the main container (play any public video - you can re-use the one
    we use).
@@ -76,9 +76,11 @@ If they would have a minimum humanized approach, they would know that, specially
 
 > Learning way too fast that there are not really many resources - at least not as I expected.
 > Checking around my Udemy lessons for anything seemenly close to what I need aka a more ready solution = NOPE
-> Searching among the other VUE courses I have [The Complete Vue JS Developer Course – inc. Vue JS 2!](https://www.udemy.com/course/vue-js-2-the-full-guide-by-real-apps-vuex-router-node/) - great, how old is this?!? / and [Vue JS 2: From Beginner to Professional (includes Vuex)](https://www.udemy.com/course/vuejs-from-beginner-to-professional/l), this second one quite helpful - me jumping to the module Animations & Transitions Hello
+> Searching among the other VUE courses I have [The Complete Vue JS Developer Course – inc. Vue JS 2!](https://www.udemy.com/course/vue-js-2-the-full-guide-by-real-apps-vuex-router-node/) - great, how old is this?!? / and [Vue JS 2: From Beginner to Professional (includes Vuex)](https://www.udemy.com/course/vuejs-from-beginner-to-professional/l), this second one quite helpful - me jumping to the module Animations & Transitions Hello <templates><templates> and <script></script>
 
--   <templates><templates> and <script></script>
+## Reimagination of the wheel!
+
+This itched my creativity :sparkles:
 
 ## 1 - Project setup
 
@@ -112,8 +114,35 @@ Tsc -v
 ### Installing Vue CLI
 
 ```
-npm install
+npm install -g @vue/cli
 ```
+
+```
+Vue --version
+@vue/cli 5.0.1
+```
+
+### Creating Project folder - Vue App
+
+```
+vue create  vchallenge
+```
+
+> UPDATE: later I created a new project folder as for this first one I chose default settings and was not asked to choose features such as Typescript.
+
+    In doubt of having it or not and noticing there was no .ts file among the project I added
+
+    ````
+    vue add typescript
+    ````
+
+    But I messed up ignoring the suggestion for not compiling JS files, which result in my project not working on the browser - because compiler could not find main.js that by now was changed to main.ts. I then ran vue add again, this time saying no to compliting JS files and everything was running again, however with many merge issues.
+
+    I was wasting more time with Git-Github than with anything else so I created everything from zero, this time with create vue manually - typescript was there.
+
+    I will make some progress using the setup as it is - not .ts file at least to put the video on and add a toggle sidepanel/container with the requested measures, after that I will populate the chat and/or work on the toggle button + Submit button.
+
+    After the progress, I will time to add Typescript and see if things jump to TS magically.
 
 ### Compiles and hot-reloads for development
 
@@ -121,13 +150,13 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
+### (by default readme) Compiles and minifies for production
 
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### (by default readme) Lints and fixes files
 
 ```
 npm run lint
