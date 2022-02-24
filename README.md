@@ -47,7 +47,7 @@
 
 12. Finally - do something COOL in this project. Surprise us, WHOW us, if you can. Show us what you can do! All up to you :)
 
-## 0 Personal approach:
+## Personal approach:
 
 > Visiting [https://webclient.spect8.me/demo.html](https://webclient.spect8.me/demo.html) in Chrome
 
@@ -66,7 +66,7 @@
 
 > That I will need VUE CLI and Components more than I could have imagined at the beginning of my VUE learning both lessons not yet reached in my one and only VUE contact/learning approach at Udemy [Vue - The Complete Guide (incl. Router & Composition API)](https://www.udemy.com/course/vuejs-2-the-complete-guide/). However, as I like to look around the lessons to spot important/crucial learning modules, these two caught my eyes.
 
-Plan for today: Learn Vue CLI and get a hand of Components.
+Plan for day 1 : Learn Vue CLI and get a hand of Components.
 
 > Update: WHY Learning approaches often teaches you the simplest way to implement a framework only to destroy all your knowlege by showing completely different and more efficient ways of doing it in advanced lessons?!? - this happened to me with Phaser 3 too.
 
@@ -76,7 +76,9 @@ If they would have a minimum humanized approach, they would know that, specially
 
 > Learning way too fast that there are not really many resources - at least not as I expected.
 > Checking around my Udemy lessons for anything seemenly close to what I need aka a more ready solution = NOPE
-> Searching among the other VUE courses I have [The Complete Vue JS Developer Course – inc. Vue JS 2!](https://www.udemy.com/course/vue-js-2-the-full-guide-by-real-apps-vuex-router-node/) - great, how old is this?!? / and [Vue JS 2: From Beginner to Professional (includes Vuex)](https://www.udemy.com/course/vuejs-from-beginner-to-professional/l), this second one quite helpful - me jumping to the module Animations & Transitions Hello <templates></templates> and <script></script>
+> Searching among the other VUE courses I have [The Complete Vue JS Developer Course – inc. Vue JS 2!](https://www.udemy.com/course/vue-js-2-the-full-guide-by-real-apps-vuex-router-node/) - great, how old is this?!? / and [Vue JS 2: From Beginner to Professional (includes Vuex)](https://www.udemy.com/course/vuejs-from-beginner-to-professional/l), this second one quite helpful - me jumping to the module Animations & Transitions Hello
+
+-   <templates></templates> and <script></script>
 
 ## 1 - Project setup
 
