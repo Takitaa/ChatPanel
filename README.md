@@ -78,7 +78,7 @@ If they would have a minimum humanized approach, they would know that, specially
 > Checking around my Udemy lessons for anything seemenly close to what I need aka a more ready solution = NOPE
 > Searching among the other VUE courses I have [The Complete Vue JS Developer Course – inc. Vue JS 2!](https://www.udemy.com/course/vue-js-2-the-full-guide-by-real-apps-vuex-router-node/) - great, how old is this?!? / and [Vue JS 2: From Beginner to Professional (includes Vuex)](https://www.udemy.com/course/vuejs-from-beginner-to-professional/l), this second one quite helpful - me jumping to the module Animations & Transitions Hello
 
--   <templates></templates> and <script></script>
+-   <templates><templates> and <script></script>
 
 ## 1 - Project setup
 
