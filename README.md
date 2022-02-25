@@ -5,9 +5,9 @@
 ### Challenged to create a chat-sidepanel with the following aspects:
 
 1. Please create a new VueJS (1.x latest) project as repo on github.
-   a. use typescript! for the project!!
-   b. add "itsatony" as a collaborator to the project.
-   c. create a USEFUL README please. explain what you did. what was problematic
+   a. DONE use typescript! for the project!!
+   b. DONE add "itsatony" as a collaborator to the project.
+   c. DONE create a USEFUL README please. explain what you did. what was problematic
    and why. how you approached the tasks and solved them.
    d. ideally, commit whenever it seems reasonable to you - imagine you're working in
    a team of 4+ developers on this project.
@@ -182,7 +182,9 @@ I've been preparing myself to do it from zero, will give some time to this and t
 
 My dilemma is: in which way would I have this solution up an running faster?
 
-> Having issues with mege of Readme.md
+> Having issues with merge of Readme.md
+
+> Had to refresh deployment of apps with component and add props knowledge - still working on it
 
 ### Customize configuration
 
