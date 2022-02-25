@@ -47,7 +47,7 @@
 
 12. Finally - do something COOL in this project. Surprise us, WHOW us, if you can. Show us what you can do! All up to you :)
 
-## Personal approach:
+## DAY 1 - Personal approach:
 
 > Visiting [https://webclient.spect8.me/demo.html](https://webclient.spect8.me/demo.html) in Chrome
 
@@ -82,7 +82,7 @@ If they would have a minimum humanized approach, they would know that, specially
 
 This itched my creativity :sparkles:
 
-## 1 - Project setup
+## DAY 2 - Project setup
 
 ### Updating node - aware of the recent security issues in node_modules
 
@@ -128,7 +128,7 @@ Vue --version
 vue create  vchallenge
 ```
 
-> UPDATE: later I created a new project folder as for this first one I chose default settings and was not asked to choose features such as Typescript.
+> UPDATE 1: later I created a new project folder as for this first one I chose default settings and was not asked to choose features such as Typescript.
 
     In doubt of having it or not and noticing there was no .ts file among the project I added
 
@@ -143,6 +143,8 @@ vue create  vchallenge
     I will make some progress using the setup as it is - not .ts file at least to put the video on and add a toggle sidepanel/container with the requested measures, after that I will populate the chat and/or work on the toggle button + Submit button.
 
     After the progress, I will time to add Typescript and see if things jump to TS magically.
+
+> Update 2: I could not ignore the TS - first item of my challenge list, so I started from there, found out about Vue UI and add TS successfully - same could have hapenned by using VUE CLI I as I just messed up with the activation options.
 
 ### Compiles and hot-reloads for development
 
@@ -161,6 +163,24 @@ npm run build
 ```
 npm run lint
 ```
+
+## DAY 3 - Hands On!
+
+> Before start attacking the tasks, I checked my git/github sync situation. Not having used them as part of a team, I lack of some command habits, often confusing pull and push (this happens because I'm always in a worry digging around these tools for life saving measures only).
+
+I took the time and clarified that push was what I needed (sync my remote to the changes from my local) and pull... what a surprise! a Pull Request is an opportunity to have my code revised etc, loved it - a hello world moment.
+
+I've seen this pull request button in VS and all I knew was: I don't need it.
+
+Reading the [GIT guide](https://github.com/git-guides/git-pull) helped me out.
+
+### Challenge new approach
+
+> Better informed about Vue projects, I analysed the Inspiration code again. And realised I have two options: create mine from zero OR modernize demo.html to a Vue app, getting rid of those getElementById, adding the css to style etc.
+
+I've been preparing myself to do it from zero, will give some time to this and then possibly do the second option which I believe would be more clever and would definitely show my Vue capabilities.
+
+My dilemma is: in which way would I have this solution up an running faster?
 
 ### Customize configuration
 
