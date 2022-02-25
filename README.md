@@ -182,6 +182,8 @@ I've been preparing myself to do it from zero, will give some time to this and t
 
 My dilemma is: in which way would I have this solution up an running faster?
 
+> Having issues with mege of Readme.md
+
 ### Customize configuration
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
