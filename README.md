@@ -103,7 +103,6 @@ npm run serve
    
    There is hope! 🍀
 <br>
-
    UPDATE from <ins>DAY 5</ins> Progress has been made as I realised the VueJS  version asked for the app was <ins>1.x</ins>!! 🥴🥴🥴🥴🥴 (walking backwards from the future gave me an advantage though as I could understand the progress implemented to version 1.0.
 <br>
 
@@ -125,11 +124,13 @@ npm run serve
   Lastly, I will also get in touch with the team tomorrow, I didn't before because my issues were due to lack of knowledge so questions would be more on a how to basis which I don't believe would answer the purpose of the challenge.
 
 > 4. Add a button for "theatre-mode" where the video + chat-sidepanel go into fullscreen
-   mode.
-   <br>
+   mode.<br>
+   
    <ins>DAY 5</ins> The video has a fullscreen, I would say 40% done for this task 4.
    <br>
-
+   <br>
+   
+   
 > 5. Add a slide-in + slide-out button to the chat-sidepanel. This should work (animated) both
    in full-screen mode and normal mode.The video-size should adapt according to the
    sidepanel status (out/in/sliding animation).
@@ -139,7 +140,7 @@ npm run serve
    <br>
    <ins>DAY 5</ins> I added a button that would have come with a sidepanel but the style were in sass and with the Vue 1 version I could not pass the issue with Vue Ui as the system is older than required for such a fancy UI.
    <br>
-   
+   <br>
 
 6. add an input field to the bottom of the chat-sidepanel with a submit button and a
    emoji-selector (use any available plugin you like).
