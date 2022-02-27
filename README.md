@@ -103,11 +103,31 @@ npm run serve
    
    There is hope! 🍀
 <br>
+
+   UPDATE from <ins>DAY 5</ins> Progress has been made as I realised the VueJS  version asked for the app was <ins>1.x</ins>!! 🥴🥴🥴🥴🥴 (walking backwards from the future gave me an advantage though as I could understand the progress implemented to version 1.0.
 <br>
 
-4. Add a button for "theatre-mode" where the video + chat-sidepanel go into fullscreen
+   I wanted to mention before about documentation and versions having found little for Vue 3 and much for Vue 2 📌  A new world and challenge was presented by having to work with Vue 1 but now I understand extremely better the Async call and backend Mock - were you meaning tests with this? Yes or Not, I learned about Jest against Karma-Mocha (choice for Vue projects at this point - it seems).
+<br>
+
+  A brand new enviroment was deployed, I was creating a new branch to upload it when I realised the Vue 3 environemnt would be there, so I found out about submodules and will deploy it to GitHub tomorrow (Monday 27 feb).
+  
+  <br>
+  
+  I'm getting more hand of the enviroment as I'm having to do things again and again 🤗
+  
+  <br>
+  
+  For the records, I can create a user input with a submit button .- at least in Vue 3 😅 And I'm noticing difficulty - now that I'm working with just one file (App.vue) and the need for Component - to link/register one thing to the other, so still working on one file and not finding it so straight forward as I know it can be.🤓
+  
+  <br>
+  
+  Lastly, I will also get in touch with the team tomorrow, I didn't before because my issues were due to lack of knowledge so questions would be more on a how to basis which I don't believe would answer the purpose of the challenge.
+
+> 4. Add a button for "theatre-mode" where the video + chat-sidepanel go into fullscreen
    mode.
    <br>
+   <ins>DAY 5</ins> The video has a fullscreen, I would say 40% done for this task 4.
    <br>
 
 > 5. Add a slide-in + slide-out button to the chat-sidepanel. This should work (animated) both
@@ -117,6 +137,7 @@ npm run serve
    I decided to start here and my world crumbled as my perfect button done with vue-toggle does not seems to be so stratight forward or even working. 📌
    So I tried task 2. and 3.
    <br>
+   <ins>DAY 5</ins> I added a button that would have come with a sidepanel but the style were in sass and with the Vue 1 version I could not pass the issue with Vue Ui as the system is older than required for such a fancy UI.
    <br>
    
 
