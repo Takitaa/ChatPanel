@@ -117,7 +117,7 @@ npm run serve
   
   <br>
   
-  For the records, I can create a user input with a submit button .- at least in Vue 3 😅 And I'm noticing difficulty - now that I'm working with just one file (App.vue) and the need for Component - to link/register one thing to the other, so still working on one file and not finding it so straight forward as I know it can be.🤓
+  For the records, I can create a user input with a submit button .- at least in Vue 3 😅 And I'm noticing  <ins> difficulty </ins> - now that I'm working with just one file (App.vue) and the need for Component -  📌 to link/register one thing to the other, so still working on one file and not finding it so straight forward as I know it can be.🤓
   
   <br>
   
@@ -128,6 +128,7 @@ npm run serve
    
    <ins>DAY 5</ins> The video has a fullscreen, I would say 40% done for this task 4.
    <br>
+   ins>DAY 6</ins> Created the dedicated repo to the Vue 1 version [https://github.com/Takitaa/ChallengeVue1](https://github.com/Takitaa/ChallengeVue1)
    <br>
    
    
